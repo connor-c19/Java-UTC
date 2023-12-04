@@ -1,0 +1,243 @@
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Making directory dir0.1
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Making directory dir0.2
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Making directory dir0.3
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f01; size: 100
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f02; size: 200
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f03; size: 300
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Contents of current directory: root
+Directory: dir0.1
+Directory: dir0.2
+Directory: dir0.3
+File: f01
+File: f02
+File: f03
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: ****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Making directory dir1.1
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Making directory dir1.2
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f04; size: 100
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f05; size: 200
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: name: f06; size: 300
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Contents of current directory: dir0.1
+Directory: dir1.1
+Directory: dir1.2
+File: f04
+File: f05
+File: f06
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Root Filesystem Size: 1224
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Filesystem Size from Current: 612
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
+Your choice: Filesystem Size from Current: 612
+****************************************************
+Menu Options:
+1: pwd - print Current Directory
+2: ls - print current directory contents
+3: cd .. - move up one directory
+4: cd name - move to directory called 'name'
+5: mkdir name - make a new directory here with given name
+6: mkfile name size - make a file here with given name and size
+7: du - recursively find the size of the file system from the root (whole file system)
+8: du - recursively find the size of the file system from current directory
+q: quit - file system will be lost
+****************************************************
