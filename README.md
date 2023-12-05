@@ -9,7 +9,7 @@
     - Java implementation of the Stacks data structure
 - File System Project
     - Essentially a culmination of everything I have learned in Algorithm Analysis and Advanced Data Structures (CPSC 3200)
-    - The FileSystemTester.java file uses the other java classes to create a faux-file system, where you can 'create' directories as well as files in those directories. The tester provides a suite of available commands that are displayed before each command is submitted.
+    - The FileSystemTester.java file uses the other java classes to create a faux-file system, where you can 'create' directories as well as files in those directories. The tester provides a collection of available commands that are displayed before each command is submitted.
 
 
 
